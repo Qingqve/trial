@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"liang jiaqi sharp bee";
+    cout<<"liang jiaqi big sharp bee";
 }
